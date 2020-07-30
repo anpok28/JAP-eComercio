@@ -42,7 +42,6 @@ document.addEventListener("DOMContentLoaded", function(e){
             showImagesGallery(category.images);
 
             console.log("Debajo de esta linea escriban su nombre: ");
-            console.log("mi nombre");
 
 
         }
