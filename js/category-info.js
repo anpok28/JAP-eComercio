@@ -41,9 +41,9 @@ document.addEventListener("DOMContentLoaded", function(e){
             //Muestro las imagenes en forma de galería
             showImagesGallery(category.images);
 
+            console.log("Debajo de esta linea escriban su nombre: ");
+            console.log("mi nombre");
 
-            console.log("desde workspace2");
-            console.log("desde workspace2 otra vez");
 
         }
     });
