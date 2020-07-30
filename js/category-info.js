@@ -43,6 +43,8 @@ document.addEventListener("DOMContentLoaded", function(e){
 
 
             console.log("desde workspace2");
+            console.log("desde workspace2 otra vez");
+
         }
     });
 });
