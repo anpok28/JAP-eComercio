@@ -40,6 +40,8 @@ document.addEventListener("DOMContentLoaded", function(e){
 
             //Muestro las imagenes en forma de galería
             showImagesGallery(category.images);
+
+            console.log("Debajo de esta linea escriban su nombre: ");
         }
     });
 });
