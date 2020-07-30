@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function(e){
             showImagesGallery(category.images);
 
             console.log("Debajo de esta linea escriban su nombre: ");
-            console.log("Andrés Aranda");
+            console.log("Andrés Aranda no problem");
         }
     });
 });
